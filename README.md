@@ -35,9 +35,9 @@ Hey there! I’m **CyberSirenDev**  a CSE student with a passion for building, b
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/snehal-jagtap-0293b62b8/)
-[![Codeforces](https://codeforces.com/profile/snehaljagtap343)
-[![Leetcode](https://leetcode.com/u/snehal_jagtap00/)
-[![Hackerrank](https://www.hackerrank.com/profile/snehaljagtap343)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=flat-square&logo=codeforces)](https://codeforces.com/profile/snehaljagtap343)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/snehal_jagtap00/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/snehaljagtap343)
 
 ---
 
