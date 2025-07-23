@@ -38,6 +38,7 @@ Hey there! I’m **CyberSirenDev**  a CSE student with a passion for building, b
 [![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=flat-square&logo=codeforces)](https://codeforces.com/profile/snehaljagtap343)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/snehal_jagtap00/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/snehaljagtap343)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/snehaljagtapofficial)
 
 ---
 
